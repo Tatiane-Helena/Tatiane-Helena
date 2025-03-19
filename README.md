@@ -5,7 +5,7 @@
 * Proficient in Python, SQL and Machine Learning
 * I’m interested in Machine Learning, AI, Data visualization 
 * I’m looking to opportunities to apply my skills in real-world projects
-* Pronouns: She/Her - 😄
+* Pronouns: She/Her 😄
 
 ## Skills 
 * **Programming Language:** Python, SQL
